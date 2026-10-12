@@ -21,3 +21,13 @@ h2{font-size:20px;margin:28px 0 6px;color:var(--green-l)}
 .note{color:var(--muted);font-size:14px}
 footer{margin-top:48px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;display:flex;flex-wrap:wrap;gap:16px}
 footer a{color:var(--muted)}
+.doc-title{font-size:clamp(28px,6vw,40px);margin:8px 0 4px;text-align:right}
+.doc h2{font-size:19px;margin:30px 0 6px;color:var(--green-l)}
+.doc ul{padding-inline-start:22px}
+.biz{margin:16px 0 18px;padding:14px 16px;border:1px solid rgba(92,255,157,.35);border-radius:16px;background:rgba(10,40,24,.45)}
+.biz p{margin:2px 0;color:var(--text)}
+.contact{display:inline-block;margin-top:4px;font-weight:700;font-size:18px}
+table{width:100%;border-collapse:collapse;margin:8px 0}
+th,td{text-align:right;padding:8px 6px;border-bottom:1px solid var(--line);color:#d6d6da;vertical-align:top;font-size:15px}
+th{color:var(--text)}
+footer a{white-space:nowrap}
